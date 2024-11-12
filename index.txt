@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 upload Master6
 =======
 upload os2 4
 >>>>>>> os2
+=======
+upload os1 5
+=======
+upload os1.1 5
+>>>>>>> os1.1
+>>>>>>> os1
